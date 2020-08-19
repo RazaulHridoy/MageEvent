@@ -1,0 +1,384 @@
+/* XL Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+      .concert-text {
+        padding: 25px 30px;
+    }
+    .ticket-content {
+        padding: 45px 60px;
+    }
+    .ticket-content p {
+        font-size: 18px;
+    }
+    .ticket-content h3 {
+        font-size: 26px;
+    }
+    .ticket-content a {
+        font-size: 14px;
+        margin-top: 8px;
+    }
+
+}
+
+
+/* LG Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .main-menu ul li a {
+        font-size: 16px;
+        padding-left: 20px;
+    }
+    .header-right {
+        padding-left: 0px;
+    }
+    .slider-text h2 {
+        font-size: 70px;
+    }
+    .slider-img {
+        left: -150px;
+    }
+    .about-img img {
+        width: 120%;
+        margin-top: 20px;
+        margin-left: -98px;
+    }
+    .about-img .why-img {
+        margin-left: -57px;
+    }
+    .about-img {
+        padding-top: 65px;
+    }
+    .subscribe-text .section-title h2 {
+        font-size: 40px;
+    }
+    .video-bg {
+        width: 100%;
+    }
+    .concert-text {
+        width: 100%;
+    }
+    .concert-img {
+        width: 100%;
+    }
+    .concert-content {
+        width: 100%;
+        display: flex;
+    }
+    .test-content .section-title h2 {
+        font-size: 35px;
+        font-weight: 800;
+        color: #01263A;
+    }
+    .ticket-content {
+        padding: 30px 40px;
+    }
+    .ticket-content p {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .ticket-content h3 {
+        font-size: 22px;
+    }
+    .ticket-content a {
+        font-size: 14px;
+        margin-top: 8px;
+    }
+
+
+}
+
+ 
+/* MD Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .header-right {
+        padding-right: 70px;
+    }
+    .header-social {
+        display: none;
+    }
+    .registar-cta {
+        margin-right: 0;
+    }
+    .slider-text h2 {
+        font-size: 50px;
+    }
+    .event-time {
+        width: 17%;
+    }
+    .event-time .counter .day-text {
+        display: none;
+    }
+    .slider-img {
+        left: -98px;
+    }
+    .slider-img img {
+        width: 160%;
+    }
+    .event-time .counter {
+        padding-top: 30px;
+        top: 0;
+    }
+    .event-time .counter span {
+        font-size: 28px;
+    }
+    .section-title {
+        margin-bottom: 30px;
+    }
+    .section-title h2 {
+        font-size: 35px;
+    }
+    .about-shape {
+        display: none;
+    }
+    .about-text .pg-line {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .about-img img {
+        width: 145%;
+        margin-top: 5px;
+        margin-left: -60px;
+    }
+    .about-content p {
+        font-size: 13px;
+    }
+    .about-btn a {
+        font-size: 14px;
+    }
+    .about-img .why-img {
+        margin-left: -115px;
+        margin-top: 20px;
+        width: 150%;
+    }
+    .single-counter {
+        margin-top: 50px;
+    }
+    .video-bg {
+        width: 100%;
+    }
+    .concert-content {
+        width: 100%;
+        display: flex;
+    }
+    .concert-text {
+        width: 100%;
+    }
+    .concert-img {
+        width: 100%;
+    }
+    .event-menu {
+        display: none;
+    }
+    .subscribe-bar {
+        margin-top: 40px;
+    }
+    .test-img {
+        display: block;
+    }
+    .qoute-icon {
+        display: none;
+    }
+    .ticket-content {
+        padding: 35px 40px;
+    }
+    .ticket-content p {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .ticket-content h3 {
+        font-size: 28px;
+    }
+    .ticket-content a {
+        display: none;
+    }
+    .recent-post-body {
+        padding-top: 0;
+    }
+    .recent-post-body {
+        margin-top: -3px;
+    }
+    .comments-box {
+        padding: 30px 25px;
+    }
+    .comment-name h5 {
+        font-size: 15px;
+    }
+    .comment-name .reply-btn {
+        right: -10px;
+        font-size: 15px;
+    }
+    .latest-comments ul li.chiled-comment {
+        padding-left: 35px;
+        margin-bottom: 30px;
+    }
+}
+
+ 
+/*  small mobile :320px. */
+@media (max-width: 767px) {
+    
+    .toolbar-area {
+        padding: 15px 35px;
+    }
+    .menu-bg {
+        padding: 20px 25px;
+    }
+    .mean-container a.meanmenu-reveal {
+        margin-top: -45px;
+    }
+    .slider-img{
+        display: none;
+    }
+    .slider-text {
+        margin: 250px 0;
+    }
+    .slider-text h2 {
+        font-size: 46px;
+    }
+    .event-time {
+        margin-right: 13px;
+    }
+    .theme-btn {
+        font-size: 15px;
+        padding: 18px 20px;
+    }
+    .slider-btn .defult-btn {
+        font-size: 15px;
+        margin-left: 18px;
+    }
+    .about-btn .defult-btn {
+        font-size: 15px;
+    }
+    .about-img {
+        display: none;
+    }
+    .about-shape {
+        display: none;
+    }
+    .single-counter {
+        margin-bottom: 35px;
+    }
+    .video-bg {
+        width: 100%;
+        height: 350px;
+    }
+    .concert-content {
+        width: 100%;
+    }
+    .event-menu {
+        display: none;
+    }
+    .header-cta {
+        display: none;
+    }
+    .header-social {
+        width: 50%;
+    }
+    .header-social a {
+        font-size: 15px;
+        margin-left: 20px;
+    }
+    .registar-cta {
+        width: 50%;
+    }
+    .registar-cta span {
+        font-size: 15px;
+        margin: 0px;
+    }
+    .registar-cta span i {
+        margin-right: 9px;
+    }
+    .registar-cta {
+        margin: 0px;
+    }
+    .header-right {
+        display: none;
+    }
+    .concert-text {
+        width: 100%;
+    }
+    .concert-img {
+        width: 100%;
+    }
+    .single-event {
+        margin-bottom: 30px;
+    }
+    .section-title h2 {
+        font-size: 35px;
+    }
+    .subscribe-text .about-text .pg-line {
+        margin-bottom: 35px;
+    }
+    .qoute-icon {
+        display: none;
+    }
+    .team-img {
+        width: 100%;
+    }
+    .team-content {
+        width: 100%;
+    }
+    .team-wrapper {
+        padding: 60px 0;
+    }
+    .test-img {
+        display: none;
+    }
+    .footer-logo h2 {
+        font-size: 44px;
+    }
+    .ticket-content a {
+        display: none;
+    }
+    .ticket-content {
+        padding: 6px 20px;
+    }
+    .ticket-content p {
+        font-size: 10px;
+        font-weight: 400;
+        margin: 0;
+        line-height: 1.5;
+    }
+    .ticket-content h3 {
+        font-size: 10px;
+        font-weight: 800;
+        margin: 0;
+    }
+    .recent-post-title {
+        margin-top: -12px;
+    }
+    .bg-opacity {
+        margin-top: -95px;
+    }
+    .comments-box {
+        padding: 30px 25px;
+    }
+    .comment-name h5 {
+        font-size: 15px;
+    }
+    .comment-name .reply-btn {
+        right: -10px;
+        font-size: 15px;
+    }
+    .latest-comments ul li.chiled-comment {
+        padding-left: 35px;
+        margin-bottom: 30px;
+    }
+ 
+}
+ 
+/* SM Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+    .bg-opacity {
+        margin-top: -95px;
+    }
+    .comments-box {
+        padding: 30px 5px;
+    }
+    .comment-name h5 {
+        font-size: 15px;
+    }
+    .latest-comments ul li.chiled-comment {
+        padding-left: 20px;
+    }
+ 
+}
